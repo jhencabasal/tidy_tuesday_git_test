@@ -3,3 +3,5 @@
 # Jhen Cabasal
 
 # Example script file.
+
+# Another comment.
