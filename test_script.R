@@ -2,6 +2,4 @@
 # 11/3/2020
 # Jhen Cabasal
 
-# Example script file.
-
 # Another comment.
